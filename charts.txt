@@ -1,0 +1,4 @@
+bar chart-> categorial camparison
+pie chart-> proportio illustration/whole distubution
+Histogram-> numerical Distrubution show,data insight
+scatter-> to show when both the val are increasing in some order eg->hourof study and exam score,temp with icecream sold

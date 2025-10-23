@@ -1,0 +1,7 @@
+Notes:
+importance of subplot is:
+comparing multiple charts
+space 
+Mostly use in wekely sales analysis,ml models.
+syntax
+plt.subplot(nrows,ncols,index) index is 1 based

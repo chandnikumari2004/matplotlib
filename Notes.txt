@@ -1,0 +1,15 @@
+Imp notes:
+
+data Point-> single pair value one for x axis,and for y axis
+x axis->horizontal line put input val here like time,days
+y axis->verticak line put output  val here like sales,temp,profit etc.
+Figure-> entire page/whole window
+Axes-> graph box
+Plot->bar,line draw under Axes
+Marker->symbol,dot use to denote graph values
+Line Style-> in which line type dashes,colon etc
+Color-> use to give color line,marker,graph
+Legand->provide small  detalils of representaion in graplh
+Label->show the work of x,y axis
+Title-> provide headline to graph
+Grid->horizontal,vertical line in bckground of graph
